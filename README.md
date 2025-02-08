@@ -97,4 +97,4 @@ If you have any doubts, feel free to connect with me:
 ---
 
 # Documentation
-For detailed step by step live demonstration you can refere [here](https://aws-x-vpc-custom-vpc.hashnode.dev/aws-networking-module)
+For detailed step by step live demonstration you can refer [here](https://aws-x-vpc-custom-vpc.hashnode.dev/aws-networking-module)
